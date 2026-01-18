@@ -11,8 +11,7 @@ st.set_page_config(
 st.title("💧 Sistem Cerdas Prediksi Kualitas Air")
 st.markdown("### Tugas Akhir - Penerapan Algoritma Random Forest")
 
-# Ilustrasi
-st.image("https://images.unsplash.com/photo-1548839140-29a749e1cf4d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80", use_container_width=True)
+
 
 # Deskripsi
 st.markdown("""
@@ -30,4 +29,4 @@ Aplikasi ini dirancang untuk memprediksi kelayakan air minum berdasarkan paramet
 2.  Pilih **Tentang** untuk mempelajari parameter dan metode.
 """)
 
-st.info("Dikembangkan oleh Steve Audie Apriliano - Universitas Dian Nuswantoro")
+st.info("Dikembangkan oleh Steve Audie Dan Radit - Universitas Dian Nuswantoro")
